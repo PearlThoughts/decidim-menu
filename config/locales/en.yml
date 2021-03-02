@@ -14,7 +14,7 @@ en:
         configuration: Configuration test
         help_sections: Help sections test
         homepage: Homepage
-        navbar_links: Navbar links 123
+        navbar_links: Navbar links test link working
         scope_types: Scope types
         scopes: Scopes
       models:
@@ -34,7 +34,7 @@ en:
           error: Error
           success: Success
       titles:
-        navbar_links: Navbar Links 123
+        navbar_links: Navbar Links test link working
     components:
       navbar_links:
         name: NavbarLinks
@@ -56,7 +56,7 @@ en:
   decidim_navbar_links:
     admin:
       menu:
-        navbar_links: Navbar links 123
+        navbar_links: Navbar links test link working
   layouts:
     decidim:
       admin:
